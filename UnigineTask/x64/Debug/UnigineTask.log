@@ -1,0 +1,13 @@
+﻿  UnigineTask.cpp
+C:\Users\Ксения\source\repos\UnigineTest\UnigineTask.cpp(99,27): warning C4244: инициализация: преобразование "float" в "unsigned int", возможна потеря данных
+C:\Users\Ксения\source\repos\UnigineTest\UnigineTask.cpp(100,27): warning C4244: инициализация: преобразование "float" в "unsigned int", возможна потеря данных
+C:\Users\Ксения\source\repos\UnigineTest\UnigineTask.cpp(106,14): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\Ксения\source\repos\UnigineTest\UnigineTask.cpp(228,33): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+C:\Users\Ксения\source\repos\UnigineTest\UnigineTask.cpp(229,32): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+C:\Users\Ксения\source\repos\UnigineTest\UnigineTask.cpp(244,38): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+C:\Users\Ксения\source\repos\UnigineTest\UnigineTask.cpp(245,38): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+C:\Users\Ксения\source\repos\UnigineTest\UnigineTask.cpp(246,39): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+C:\Users\Ксения\source\repos\UnigineTest\UnigineTask.cpp(247,39): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+C:\Users\Ксения\source\repos\UnigineTest\UnigineTask.cpp(248,33): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+C:\Users\Ксения\source\repos\UnigineTest\UnigineTask.cpp(249,32): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+  UnigineTask.vcxproj -> C:\Users\Ксения\source\repos\UnigineTest\x64\Debug\UnigineTask.exe
